@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) +[Moralis.io](https://moralis.io/).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) + [Moralis.io](https://moralis.io/).
 
 ## Getting Started
 
@@ -26,6 +26,7 @@ To learn more about Next.js and Moralis, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 - [Moralis Authentication API](https://docs.moralis.io/authentication-api/evm/how-to-sign-in-with-metamask) - Authenticate Users with MetaMask.
 - [Moralis Quickstart Next.js](https://docs.moralis.io/web3-data-api/evm/quickstart-nextjs) - shows you how to create a basic NextJS dapp that uses the @moralisweb3/next to display native balance.
+- [@moralisweb3/next -npm Documentation](https://www.npmjs.com/package/@moralisweb3/next) - is a thin NextJS wrapper around Moralis, to easily call functionalities and display data. It serves as a proxy, to allow users to access Moralis APIs in client-side.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
