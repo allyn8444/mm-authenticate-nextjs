@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) +[Moralis.io](https://moralis.io/).
 
 ## Getting Started
 
@@ -20,10 +20,12 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about Next.js and Moralis, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Moralis Authentication API](https://docs.moralis.io/authentication-api/evm/how-to-sign-in-with-metamask) - Authenticate Users with MetaMask.
+- [Moralis Quickstart Next.js](https://docs.moralis.io/web3-data-api/evm/quickstart-nextjs) - shows you how to create a basic NextJS dapp that uses the @moralisweb3/next to display native balance.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
